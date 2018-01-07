@@ -1,0 +1,6 @@
+model_checkpoint_path: "SRCNN.model-14450"
+all_model_checkpoint_paths: "SRCNN.model-13770"
+all_model_checkpoint_paths: "SRCNN.model-13940"
+all_model_checkpoint_paths: "SRCNN.model-14110"
+all_model_checkpoint_paths: "SRCNN.model-14280"
+all_model_checkpoint_paths: "SRCNN.model-14450"
